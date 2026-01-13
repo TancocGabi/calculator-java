@@ -17,4 +17,4 @@ Aplicație de tip calculator realizată în Java, capabilă să efectueze opera�
 Proiectul se rulează din clasa `App.java`.
 
 ## Autor
-Tancoc Marian Gabriel
+Țancoc Marian Gabriel
